@@ -1,2 +1,2 @@
 # Alqimi_registrationForm
-A simple registration form demonstrating usage of NextJs for both frontend and backend.
+The project demonstrates full-stack development using Next.js, combining a responsive UI, robust validation, API development, and persistent data storage in a clean and modular architecture.
