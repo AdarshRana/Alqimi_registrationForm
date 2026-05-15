@@ -1,3 +1,16 @@
+A responsive User Registration Form was developed using Next.js. The application includes frontend form development, client-side and server-side validation, API integration, and local JSON-based data storage.
+
+## Project Structure
+•	app/page.tsx – Entry point of the application
+•	app/form/page.tsx – Form route
+•	components/form/registration-form.tsx – Main form component
+•	components/message/success-message.tsx – Success popup
+•	lib/validation.ts – Zod schema
+•	app/api/register/route.ts – API endpoint
+•	constants/fields.ts – Field configuration
+•	db.json – Local data storage
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": "9c508b9f-e8ac-4c3e-8bcd-f097750bbc0e",
+      "firstName": "Adarsh",
+      "lastName": "Rana",
+      "email": "adarshrana2212@gmail.com",
+      "phone": "+919650969402",
+      "position": "Frontend Developer",
+      "organization": "rrrr",
+      "password": "Lal@1234",
+      "confirmPassword": "Lal@1234",
+      "createdAt": "2026-05-14T13:45:58.771Z"
+    },
+    {
+      "id": "9e24f045-212f-4b17-a36a-7afa6cbe91f8",
+      "firstName": "Prem",
+      "lastName": "Rana",
+      "email": "adarshrana2212@gmail.com",
+      "phone": "+919650969402",
+      "position": "Frontend Developer",
+      "organization": "rrrr",
+      "password": "Pal@1234",
+      "confirmPassword": "Pal@1234",
+      "createdAt": "2026-05-14T13:48:23.470Z"
+    },
+    {
+      "id": "373e875c-aad1-4ad8-8f42-3fd63e38cafc",
+      "firstName": "Adarsh",
+      "lastName": "Rana",
+      "email": "adarshrana2212@gmail.com",
+      "phone": "+919650969402",
+      "position": "Frontend Developer",
+      "organization": "rrrr",
+      "password": "Namm@1234",
+      "confirmPassword": "Namm@1234",
+      "createdAt": "2026-05-14T13:56:55.382Z"
+    },
+    {
+      "id": "b30107c3-c0cb-47e2-a13a-441ae95e652f",
+      "firstName": "Lakshay",
+      "lastName": "Sharma",
+      "email": "lakshay123@gmail.com",
+      "phone": "+919727679465",
+      "position": "Full Stack Developer",
+      "organization": "Alqimi",
+      "password": "Lakshay@123",
+      "confirmPassword": "Lakshay@123",
+      "createdAt": "2026-05-15T06:26:57.468Z"
+    },
+    {
+      "id": "73362fe3-6aab-4b22-ac8c-9b854d59fecf",
+      "firstName": "Laksh",
+      "lastName": "Kumar",
+      "email": "laksh@gmail.com",
+      "phone": "+919922334455",
+      "position": "Full Stack Developer",
+      "organization": "Alqimi",
+      "password": "Laksh@123",
+      "confirmPassword": "Laksh@123",
+      "createdAt": "2026-05-15T06:28:14.798Z"
+    },
+    {
+      "id": "ed18bd69-9d30-4bb5-ac81-53a7c48b67e4",
+      "firstName": "Ramesh",
+      "lastName": "Singh",
+      "email": "ramesh@gmail.com",
+      "phone": "+919922223344",
+      "position": "Backend Developer",
+      "organization": "Alqimi",
+      "password": "Ramesh@123",
+      "confirmPassword": "Ramesh@123",
+      "createdAt": "2026-05-15T06:31:06.636Z"
+    },
+    {
+      "id": "1145e728-9c9d-4204-bda7-b49553f45a23",
+      "firstName": "Adarsh",
+      "lastName": "Rana",
+      "email": "adarshrana2212@gmail.com",
+      "phone": "+919650969402",
+      "position": "Full Stack Developer",
+      "organization": "Alqimi",
+      "password": "Adarsh@123",
+      "confirmPassword": "Adarsh@123",
+      "createdAt": "2026-05-15T06:37:19.556Z"
+    },
+    {
+      "id": "07fc3e0c-9fc3-45fe-9771-e54bde5229aa",
+      "firstName": "Lakshay",
+      "lastName": "Kumar",
+      "email": "lakshay@gmail.com",
+      "phone": "+919650969402",
+      "position": "Backend Developer",
+      "organization": "Alqimi",
+      "password": "Lakshay@12",
+      "confirmPassword": "Lakshay@12",
+      "createdAt": "2026-05-15T06:43:48.971Z"
+    },
+    {
+      "id": "ed5eceb1-43c0-4c30-9edf-6913473ab883",
+      "firstName": "Ramesh",
+      "lastName": "Singh",
+      "email": "adarshrana2212@gmail.com",
+      "phone": "+919650969402",
+      "position": "Backend Developer",
+      "organization": "Alqimi",
+      "password": "Ramesh@123",
+      "confirmPassword": "Ramesh@123",
+      "createdAt": "2026-05-15T06:44:34.994Z"
+    }
+  ]
+}
